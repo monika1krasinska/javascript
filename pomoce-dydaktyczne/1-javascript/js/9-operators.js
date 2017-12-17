@@ -15,6 +15,6 @@ if ("2"=== 2){
 } else {
     console.log("Nie prawda");
 }
-if (!(!("2" !==2) && (8 < 4))) {
+if (!("2" !==2) && (8 < 4)) {
     document.write("<br> prawda")
 }
