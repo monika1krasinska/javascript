@@ -1,7 +1,7 @@
 "use strict"
 
-var wzrostMateusza =190;
-var wzrostOlgi = 189;
+var wzrostMateusza = 190;
+var wzrostOlgi = 191;
 if (wzrostOlgi > wzrostMateusza) {
     console.log("Olga jest niższa:)");
 }
